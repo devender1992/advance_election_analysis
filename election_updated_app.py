@@ -17,7 +17,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.title("🇮🇳 India Votes 2024: The Grand Election Saga! 🗳️📊")
+st.title("India Votes 2024: The Grand Election Saga! 🗳️📊")
 st.markdown(
     """
     Welcome to an interactive journey through the **2024 Indian General Election results!** This dashboard brings complex data to life, allowing you to explore key insights, 
